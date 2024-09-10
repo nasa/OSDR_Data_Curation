@@ -37,6 +37,6 @@ If you are interested in submitting your data to OSDR but are unfamiliar with th
 > *Note: If you cannot find a template you are looking for, or if you have suggestions for how to improve an existing template please feel free to [create an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on this repository describing your request. Alternateively, feel free to [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your proposed change(s).*
 
 <img width="76" src="images/NASA_GeneLab_logo-2019.png" align="left" alt=""/>
-<img width="72" src="images/ALSDA_logo.png" align="left" alt=""/>
+<img width="76" src="images/ALSDA_logo.png" align="left" alt=""/>
 
 
